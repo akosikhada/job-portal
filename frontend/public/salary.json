@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "title": "Aerospace Engineer",
+    "salary": "Average Salary $162,356 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 2,
+    "title": "AI Engineer",
+    "salary": "Average Salary $213,304 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 3,
+    "title": "Android Developer",
+    "salary": "Average Salary $132,963 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 4,
+    "title": "App Developer",
+    "salary": "Average Salary $124,466 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 5,
+    "title": "Application Engineer",
+    "salary": "Average Salary $148,160 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 6,
+    "title": "Automation Engineer",
+    "salary": "Average Salary $118,758 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 7,
+    "title": "AWS Developer",
+    "salary": "Average Salary $124,491 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 8,
+    "title": "Back End Developer",
+    "salary": "Average Salary $219,564 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 9,
+    "title": "Blockchain Developer",
+    "salary": "Average Salary $133,597 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 10,
+    "title": "Business Intelligence Developer",
+    "salary": "Average Salary $160,775 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 11,
+    "title": "Cloud Engineer",
+    "salary": "Average Salary $169,246 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 12,
+    "title": "Cloud Security Engineer",
+    "salary": "Average Salary $161,987 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 13,
+    "title": "Data Architect",
+    "salary": "Average Salary $189,122 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 14,
+    "title": "Data Engineer",
+    "salary": "Average Salary $149,743 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 15,
+    "title": "Data Engineering Manager",
+    "salary": "Average Salary $191,660 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 16,
+    "title": "Database Administrator",
+    "salary": "Average Salary $145,658 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 17,
+    "title": "Database Developer",
+    "salary": "Average Salary $128,455 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 18,
+    "title": "Design Engineer",
+    "salary": "Average Salary $160,627 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 19,
+    "title": "DevOps Engineer",
+    "salary": "Average Salary $149,391 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 20,
+    "title": "Director of Software Engineering",
+    "salary": "Average Salary $241,960 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 21,
+    "title": "Engineering Manager",
+    "salary": "Average Salary $202,129 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 22,
+    "title": "Front End Developer",
+    "salary": "Average Salary $120,790 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 23,
+    "title": "Full Stack Developer",
+    "salary": "Average Salary $174,304 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 24,
+    "title": "Game Developer",
+    "salary": "Average Salary $120,715 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 25,
+    "title": "Hardware Engineer",
+    "salary": "Average Salary $188,130 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 26,
+    "title": "iOS Developer",
+    "salary": "Average Salary $129,513 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 27,
+    "title": "IT Engineer",
+    "salary": "Average Salary $264,436 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 28,
+    "title": "Java Developer",
+    "salary": "Average Salary $193,653 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 29,
+    "title": "Javascript Developer",
+    "salary": "Average Salary $111,381 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 30,
+    "title": "Junior Software Developer",
+    "salary": "Average Salary $94,872 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 31,
+    "title": "Junior Software Engineer",
+    "salary": "Average Salary $99,960 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 32,
+    "title": "Junior Web Developer",
+    "salary": "Average Salary $80,194 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 33,
+    "title": "Lead Software Engineer",
+    "salary": "Average Salary $172,917 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 34,
+    "title": "Machine Learning Engineer",
+    "salary": "Average Salary $202,331 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 35,
+    "title": "Network Engineer",
+    "salary": "Average Salary $128,909 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 36,
+    "title": "Power BI Developer",
+    "salary": "Average Salary $113,469 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 37,
+    "title": "Principal Software Engineer",
+    "salary": "Average Salary $211,305 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 38,
+    "title": "Python Developer",
+    "salary": "Average Salary $127,649 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 39,
+    "title": "QA Engineer",
+    "salary": "Average Salary $119,771 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 40,
+    "title": "Quant Developer",
+    "salary": "Average Salary $248,476 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 41,
+    "title": "React Developer",
+    "salary": "Average Salary $115,958 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 42,
+    "title": "Robotics Engineer",
+    "salary": "Average Salary $172,369 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 43,
+    "title": "RPA Developer",
+    "salary": "Average Salary $94,947 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 44,
+    "title": "Sales Engineer",
+    "salary": "Average Salary $172,082 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 45,
+    "title": "Salesforce Developer",
+    "salary": "Average Salary $123,999 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 46,
+    "title": "Security Engineer",
+    "salary": "Average Salary $151,608 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 47,
+    "title": "Senior Data Engineer",
+    "salary": "Average Salary $161,811 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 48,
+    "title": "Senior Software Developer",
+    "salary": "Average Salary $533,671 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 49,
+    "title": "Senior Software Engineer",
+    "salary": "Average Salary $177,504 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 50,
+    "title": "Senior Systems Engineer",
+    "salary": "Average Salary $178,517 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 51,
+    "title": "Site Reliability Engineer",
+    "salary": "Average Salary $144,224 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 52,
+    "title": "Software Developer",
+    "salary": "Average Salary $166,649 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 53,
+    "title": "Software Engineer",
+    "salary": "Average Salary $156,234 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 54,
+    "title": "Software Test Engineer",
+    "salary": "Average Salary $113,758 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 55,
+    "title": "SQL Developer",
+    "salary": "Average Salary $110,395 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 56,
+    "title": "Systems Engineer",
+    "salary": "Average Salary $138,382 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 57,
+    "title": "Tableau Developer",
+    "salary": "Average Salary $104,622 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 58,
+    "title": "Test Engineer",
+    "salary": "Average Salary $125,008 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 59,
+    "title": "Web Developer",
+    "salary": "Average Salary $102,004 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  },
+  {
+    "id": 60,
+    "title": "Wordpress Developer",
+    "salary": "Average Salary $74,278 per year",
+    "status": "Job Openings",
+    "skills": "Skills"
+  }
+]
